@@ -15,4 +15,21 @@ c b d d d d d 5 5 5 5 5 5 5 b .
 . c d d d d d d 5 5 5 5 5 d b . 
 . . c b d d d d d 5 5 5 b b . . 
 . . . c c c c c c c c b b . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"u$mU+]eTJ$Em}=V{{~ym"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="O5f|egR!QlU*wl?XajJ3"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="oWi4dd}g^F+%5O^R?Jf:"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="cxVomln%:}5boX`e,y2p"><field name="VAR" id="sGt@GX4O7$SObbB+]CfC">mySprite</field></block></value></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"u$mU+]eTJ$Em}=V{{~ym"}}</data></shadow><block type="screen_image_picker" id="!UqWzNl[%g_~~z7rIxK9"><field name="img">img`
+. . 2 2 b b b b b . . . . . . . 
+. 2 b 4 4 4 4 4 4 b . . . . . . 
+2 2 4 4 4 4 d d 4 4 b . . . . . 
+2 b 4 4 4 4 4 4 d 4 b . . . . . 
+2 b 4 4 4 4 4 4 4 d 4 b . . . . 
+2 b 4 4 4 4 4 4 4 4 4 b . . . . 
+2 b 4 4 4 4 4 4 4 4 4 e . . . . 
+2 2 b 4 4 4 4 4 4 4 b e . . . . 
+. 2 b b b 4 4 4 b b b e . . . . 
+. . e b b b b b b b e e . . . . 
+. . . e e b 4 4 b e e e b . . . 
+. . . . . e e e e e e b d b b . 
+. . . . . . . . . . . b 1 1 1 b 
+. . . . . . . . . . . c 1 d d b 
+. . . . . . . . . . . c 1 b c . 
+. . . . . . . . . . . . c c . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"!UqWzNl[%g_~~z7rIxK9"}}</data></block></value><value name="kind"><shadow type="spritekind" id="O5f|egR!QlU*wl?XajJ3"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="oWi4dd}g^F+%5O^R?Jf:"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="cxVomln%:}5boX`e,y2p"><field name="VAR" id="sGt@GX4O7$SObbB+]CfC">mySprite</field></block></value></block></next></block></statement></block></xml>
